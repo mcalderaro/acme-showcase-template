@@ -1,0 +1,21 @@
+title: ACME ClawWorks
+description: A radically transparent AI-assisted engineering studio built with OpenClaw.
+markdown: kramdown
+permalink: pretty
+
+collections:
+  milestones:
+    output: true
+    permalink: /milestones/:name/
+  devlogs:
+    output: true
+    permalink: /devlogs/:name/
+  stories:
+    output: true
+    permalink: /stories/:name/
+  team:
+    output: true
+    permalink: /team/:name/
+  products:
+    output: true
+    permalink: /products/:name/
